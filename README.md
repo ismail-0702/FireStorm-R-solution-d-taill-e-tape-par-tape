@@ -1,4 +1,4 @@
-# FireStorm-R-solution-d-taill-e-tape-par-tape
+# FireStorm-Resolution
 Allumez l'emulateur, mettez l'apk vulnerable (Firestorm) 
 avec la commande frida-ps -Uai vous devez trouver l'applicaton dans la liste des processus.
 Mettez l'apk dans Jadx-GUI et cherchez la classe MainActivity et vous trouvez la methode Password()
